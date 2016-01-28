@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<joystickFamilies>
+	<joystickFamily name="Alienware Controller">
+		<name>Alienware Alienware Dual Compatible Game Pad</name>
+	</joystickFamily>
+	<joystickFamily name="Apple Remote">
+		<name>AppleRemote</name>
+	</joystickFamily>
+	<joystickFamily name="Harmony Remote">
+		<name>Harmony</name>
+	</joystickFamily>
+	<joystickFamily name="Interact AxisPad">
+		<name>STD AxisPad</name>
+		<name>Interact AxisPad</name>
+	</joystickFamily>
+	<joystickFamily name="Logitech RumblePad 2">
+		<name>Logitech Logitech Cordless RumblePad 2</name>
+		<name>Logitech Cordless RumblePad 2</name>
+		<name>Logitech RumblePad 2 USB</name>
+	</joystickFamily>
+	<joystickFamily name="Microsoft Xbox 360 Controller (xpad)">
+		<name>Microsoft X-Box 360 pad</name>
+		<name>Xbox 360 Wireless Receiver (XBOX)</name>
+		<name>Xbox 360 Wireless Receiver</name>
+		<name>Thrustmaster Gamepad GP XID</name>
+		<name>Logitech Gamepad F310</name>
+		<name>Logitech Gamepad F510</name>
+		<name>Logitech Gamepad F710</name>
+		<name>Generic X-Box pad</name>
+		<name>Logitech Chillstream Controller</name>
+		<name>Mad Catz Wired Xbox 360 Controller</name>
+		<name>Mad Catz Street Fighter IV FightStick SE</name>
+		<name>Mad Catz Xbox 360 Controller</name>
+		<name>Mad Catz Street Fighter IV FightPad</name>
+		<name>Mad Catz Wired Xbox 360 Controller (SFIV)</name>
+		<name>Mad Catz Beat Pad</name>
+		<name>Mad Catz Xbox controller - MW2</name>
+		<name>Mad Catz JOYTECH NEO SE Advanced GamePad</name>
+		<name>Saitek Cyborg Rumble Pad - PC/Xbox 360</name>
+		<name>Saitek P3200 Rumble Pad - PC/Xbox 360</name>
+		<name>Super SFIV FightStick TE S</name>
+		<name>HSM3 Xbox360 dancepad</name>
+		<name>Afterglow AX.1 Gamepad for Xbox 360</name>
+		<name>Pelican PL-3601 'TSZ' Wired Xbox 360 Controller</name>
+		<name>Afterglow Gamepad for Xbox 360</name>
+		<name>Rock Candy Gamepad for Xbox 360</name>
+		<name>Logic3 Controller</name>
+		<name>Logic3 Controller</name>
+		<name>Hori Fighting Stick EX2</name>
+		<name>Hori Real Arcade Pro.EX</name>
+		<name>Honey Bee Xbox360 dancepad</name>
+		<name>PDP AFTERGLOW AX.1</name>
+		<name>RedOctane Guitar Hero X-plorer</name>
+		<name>BigBen Interactive XBOX 360 Controller</name>
+		<name>Razer Sabertooth</name>
+		<name>Power A Mini Pro Elite</name>
+		<name>Xbox Airflo wired controller</name>
+		<name>Batarang Xbox 360 controller</name>
+		<name>Joytech Neo-Se Take2</name>
+		<name>Razer Onza Tournament Edition</name>
+		<name>Razer Onza Classic Edition</name>
+		<name>Razer Sabertooth</name>
+		<name>Harmonix Rock Band Guitar</name>
+		<name>Harmonix Rock Band Drumkit</name>
+		<name>Mad Catz Xbox 360 Controller</name>
+		<name>MLG Pro Circuit Controller (Xbox)</name>
+		<name>Street Fighter IV FightPad</name>
+		<name>Street Fighter IV FightStick TE</name>
+		<name>Harmonix Xbox 360 Controller</name>
+		<name>Gamestop Xbox 360 Controller</name>
+		<name>Tron Xbox 360 controller</name>
+		<name>Razer Atrox Arcade Stick</name>
+		<name>PowerA MINI PROEX Controller</name>
+		<name>Xbox Airflo wired controller</name>
+		<name>Hori XBOX 360 EX 2 with Turbo</name>
+		<name>Hori Real Arcade Pro VX-SA</name>
+		<name>Hori SOULCALIBUR V Stick</name>
+		<name>Thrustmaster, Inc. GPX Controller</name>
+		<name>Thrustmaster Ferrari 458 Racing Wheel</name>
+		<name>Microsoft X-Box One pad</name>  
+	</joystickFamily>
+	<joystickFamily name="Microsoft Xbox 360 Controller (Windows)">
+		<name>Afterglow Gamepad for Xbox 360 (Controller)</name>
+		<name>Controller (Gamepad F310)</name>
+		<name>Controller (Gamepad for Xbox 360)</name>
+		<name>Controller (Rumble Gamepad F510)</name>
+		<name>Controller (Wireless Gamepad F710)</name>
+		<name>Controller (Xbox 360 Wireless Receiver for Windows)</name>
+		<name>Controller (Xbox wireless receiver for windows)</name>
+		<name>Controller (XBOX360 GAMEPAD)</name>
+		<name>Controller (Batarang wired controller (XBOX))</name>
+		<name>Wireless Gamepad F710 (Controller)</name>
+		<name>XBOX 360 For Windows</name>
+		<name>XBOX 360 For Windows (Controller)</name>
+		<name>Xbox 360 Wireless Controller</name>
+		<name>Xbox Receiver for Windows (Wireless Controller)</name>
+		<name>Xbox wireless receiver for windows (Controller)</name>
+		<name>Gamepad F310 (Controller)</name>
+		<name>Razer Sabertooth Elite (Controller)</name>
+		<name>Controller (Razer Sabertooth Elite)</name>
+		<name>Controller (XBOX One For Windows)</name>
+	</joystickFamily>
+	<joystickFamily name="Microsoft Xbox Controller S">
+		<name>Microsoft Xbox Controller S</name>
+		<name>Mad Catz MicroCON</name>
+		<name>Logitech Xbox Cordless Controller</name>
+		<name>Microsoft X-Box pad (Japan)</name>
+	</joystickFamily>
+	<joystickFamily name="Nintendo Wii Remote">
+		<name>WiiRemote</name>
+	</joystickFamily>
+	<joystickFamily name="Nintendo Wii U Pro Controller">
+		<name>Nintendo Wii Remote Pro Controller</name>
+	</joystickFamily>
+	<joystickFamily name="Ouya Controller">
+		<name>OUYA Game Controller</name>
+	</joystickFamily>
+	<joystickFamily name="Sony PlayStation 3 Controller">
+		<name>PLAYSTATION(R)3 Controller</name>
+		<name>PS3 Controller</name>
+		<name>Sony Computer Entertainment Wireless Controller</name>
+	</joystickFamily>
+	<joystickFamily name="Sony PlayStation 3 Keyboard">
+		<name>PLAYSTATION(R)3 Remote Keyboard</name>
+		<name>PS3 Remote Keyboard</name>
+		<name>MoSart PS3 Remote Keyboard</name>
+	</joystickFamily>
+	<joystickFamily name="Sony PlayStation 4 Controller">
+		<name>Wireless Controller</name>
+	</joystickFamily>
+</joystickFamilies>
+
