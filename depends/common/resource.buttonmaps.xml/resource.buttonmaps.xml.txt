@@ -1,0 +1,2 @@
+resource.buttonmaps.xml https://github.com/kodi-game/resource.buttonmaps.xml
+
